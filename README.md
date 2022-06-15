@@ -1,0 +1,2 @@
+# Django-Pracitce-1
+ 
