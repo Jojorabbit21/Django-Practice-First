@@ -1,2 +1,2 @@
-# Django-Pracitce-1
- 
+# pybo.kr 클론코딩
+# 점프 투 장고 따라하기
